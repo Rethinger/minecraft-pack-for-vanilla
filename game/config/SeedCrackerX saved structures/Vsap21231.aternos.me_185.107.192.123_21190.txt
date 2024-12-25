@@ -1,0 +1,7 @@
+monument;36;80
+shipwreck;30;64
+shipwreck;27;96
+shipwreck;35;74
+shipwreck;15;58
+shipwreck;30;64
+buried_treasure;-6;95

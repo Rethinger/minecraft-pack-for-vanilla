@@ -1,0 +1,13 @@
+filename = 'waveycapes-fabric-1.4.9-mc1.21.jar'
+name = 'Wavey Capes'
+side = 'client'
+
+[download]
+hash = 'aec44d2e278607810abbfe796474515e8ae470ed1ccf0fdd057dede20c318a7969d026f6abf62ebdc581b0560a14fde24969bd5238d59eddecae43b2a78ddbee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kYuIpRLv/versions/xCclI9ED/waveycapes-fabric-1.4.9-mc1.21.jar'
+
+[update.modrinth]
+mod-id = 'kYuIpRLv'
+version = 'xCclI9ED'

@@ -1,0 +1,8 @@
+#Sat Jun 08 21:52:17 EEST 2024
+shadowDistance=512.0
+shadowMapResolution=3072
+MOTION_BLUR_STRENGTH=1.50
+DOF=true
+DOF_STRENGTH=2.0
+MOTION_BLUR=true
+WORLD_TIME_ANIMATION=true

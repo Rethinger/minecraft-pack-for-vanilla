@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "ingest_enabled": true,
+  "quality_scale": 32,
+  "max_sections": 200000,
+  "render_distance": 128,
+  "geometry_buffer_size": 134217728,
+  "ingest_threads": 2,
+  "saving_threads": 4,
+  "render_threads": 5,
+  "use_mesh_shader_if_possible": true
+}

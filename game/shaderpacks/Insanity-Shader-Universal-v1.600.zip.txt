@@ -1,0 +1,6 @@
+#Thu May 09 15:56:50 EEST 2024
+shadowDistance=512.0
+LIGHT_SHAFT=true
+shadowMapResolution=4096
+TAA=true
+AO=true

@@ -1,0 +1,38 @@
+{
+  "chosenPreset": 1,
+  "apiPreset": 1,
+  "loadedPresets": [
+    {
+      "skin": {
+        "skin_name": "123893703",
+        "model": "slim",
+        "type": "skinshuffle:config"
+      },
+      "name": "Rethinger"
+    },
+    {
+      "skin": {
+        "skin_name": "1527854496",
+        "model": "slim",
+        "type": "skinshuffle:config"
+      },
+      "name": "Steampunk"
+    },
+    {
+      "skin": {
+        "skin_name": "1626569771",
+        "model": "default",
+        "type": "skinshuffle:config"
+      },
+      "name": "Vor v zakone"
+    },
+    {
+      "skin": {
+        "skin_name": "1449638509",
+        "model": "default",
+        "type": "skinshuffle:config"
+      },
+      "name": "Unnamed Preset"
+    }
+  ]
+}

@@ -8,15 +8,15 @@
     "entity_model_features"
   ],
   "enablePuzzleButton": false,
-  "debugMessages": false,
-  "checkUpdates": false,
-  "showPuzzleInfo": false,
   "resourcepackSplashScreen": true,
   "unlimitedRotations": true,
   "biggerModels": true,
-  "backgroundColor": -16777216,
-  "progressBarColor": -7536645,
-  "progressBarBackgroundColor": -16777216,
-  "progressFrameColor": -3866866,
-  "disableBlend": false
+  "debugMessages": false,
+  "hasCustomSplashScreen": false,
+  "backgroundColor": 15675965,
+  "progressBarColor": 16777215,
+  "progressBarBackgroundColor": 15675965,
+  "progressFrameColor": 16777215,
+  "disableBlend": false,
+  "customBlendFunction": []
 }

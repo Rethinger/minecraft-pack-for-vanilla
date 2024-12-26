@@ -25,7 +25,7 @@
   "dontHoldItemsInBed": true,
   "freezeArmsInBed": true,
   "rotationLock": "NONE",
-  "showLastUsedSword": true,
+  "showLastUsedSword": false,
   "sheathSwords": [
     "minecraft:golden_sword",
     "minecraft:iron_sword",
@@ -36,15 +36,19 @@
   ],
   "enableCrawlingAnimation": true,
   "holdUpItemsMode": "CONFIG",
+  "holdUpTarget": "CAMERA",
+  "holdUpCameraOffset": 0.1,
+  "holdUpOnlySelf": false,
   "holdUpItemOffset": 0.0,
   "itemSwapAnimation": true,
   "tweakElytraAnimation": true,
   "petAnimation": true,
-  "fallingAnimation": false,
+  "fallingAnimation": true,
   "freezingAnimation": true,
-  "huggingAnimation": false,
+  "huggingAnimation": true,
   "narutoRunning": false,
-  "enableInWorldBookRendering": false,
+  "enableInWorldBookRendering": true,
   "disableLegSmoothing": false,
-  "bowAnimation": "VANILLA"
+  "bowAnimation": "VANILLA",
+  "burningAnimation": true
 }

@@ -1,8 +1,13 @@
 {
   "version": 1,
   "multilingualItemSearch": true,
-  "fallbacks": [],
-  "previousFallbacks": [],
-  "language": "en_us",
-  "previousLanguage": "ru_ru"
+  "removableDefaultLanguage": false,
+  "fallbacks": [
+    "en_us"
+  ],
+  "previousFallbacks": [
+    "en_us"
+  ],
+  "language": "ru_ru",
+  "previousLanguage": "uk_u9"
 }

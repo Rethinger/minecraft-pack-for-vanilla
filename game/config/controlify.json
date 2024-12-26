@@ -17,6 +17,7 @@
     "notify_low_battery": true,
     "quiet_mode": true,
     "ingame_button_guide_scale": 1.0,
+    "use_enhanced_steam_deck_driver": true,
     "seen_servers": []
   }
 }

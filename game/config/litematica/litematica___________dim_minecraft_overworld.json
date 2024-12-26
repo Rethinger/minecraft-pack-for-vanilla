@@ -4,7 +4,7 @@
   },
   "placements": {},
   "schematic_projects_manager": {},
-  "operation_mode": "AREA_SELECTION",
+  "operation_mode": "SCHEMATIC_PLACEMENT",
   "render_range": {
     "mode": "ALL",
     "axis": "y",
@@ -39,5 +39,6 @@
     "delete": {
       "use_placement": false
     }
-  }
+  },
+  "block_entities": {}
 }

@@ -6,7 +6,7 @@
   "showEncryptionIndicators": true,
   "encryptionKey": "blfrngArk3chG6wzncOZ5A\u003d\u003d",
   "encryptionPassphrase": "",
-  "algorithmName": "AES/CFB8+Base64",
+  "algorithmName": "AES/CFB8+Base64R",
   "encryptableCommands": [
     "msg:1",
     "w:1",

@@ -7,6 +7,7 @@
   "leafSpawnRate": 10,
   "coniferLeafSpawnRate": 0,
   "cherrySpawnRate": 10,
+  "paleOakSpawnRate": 10,
   "snowflakeSpawnRate": 15,
   "dropFromPlayerPlacedBlocks": true,
   "leavesOnBlockHit": true,

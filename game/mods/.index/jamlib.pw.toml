@@ -1,13 +1,16 @@
-filename = 'jamlib-fabric-1.0.11+1.21.jar'
+filename = 'jamlib-fabric-1.2.2+1.21.4.jar'
 name = 'JamLib'
 side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '6503df7e25a8081aff2946bef6fc7067cc51209d8ee3cb2faaa395967e29dd68c2a2e07b8a21cd747307714c2d21dd568f4c6a2d4eae4917ae5e554e4a26875d'
+hash = 'b20e4d625d36d16b06eaa8410bf01042487d2b5896a1f0cffc6b713b3e1112498ef63a021ee776da02d79d367c658935aaba20273d7f2f4a731d2b1890e484e2'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/IYY9Siz8/versions/7NY3wW64/jamlib-fabric-1.0.11%2B1.21.jar'
+url = 'https://cdn.modrinth.com/data/IYY9Siz8/versions/2J8TKset/jamlib-fabric-1.2.2%2B1.21.4.jar'
 
 [update.modrinth]
 mod-id = 'IYY9Siz8'
-version = '7NY3wW64'
+version = '2J8TKset'

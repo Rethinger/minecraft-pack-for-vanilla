@@ -1,0 +1,14 @@
+{
+  "options": {
+    "interactionRateServer": 10,
+    "interactionRateClient": 1,
+    "hotbarMode": "HARD",
+    "extraSlotMode": "NONE",
+    "rmbBundle": false,
+    "sortModeStr": "creative",
+    "shiftSortModeStr": "quantity",
+    "ctrlSortModeStr": "alphabet",
+    "altSortModeStr": "rawId",
+    "optimizedCreativeSorting": true
+  }
+}

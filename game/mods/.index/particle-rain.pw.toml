@@ -1,0 +1,16 @@
+filename = 'particle-rain-3.0.6.jar'
+name = 'Particle Rain'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '152ef1ef461bad9417bab155c7be38b202b058057763e53754f52ee2fcb2b05bca86cb5b010216fe961610e4c71970e2ca73965d6857148662afe72a47d5d37a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nrikgvxm/versions/bYlwWGuq/particle-rain-3.0.6.jar'
+
+[update.modrinth]
+mod-id = 'nrikgvxm'
+version = 'bYlwWGuq'

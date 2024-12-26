@@ -1,5 +1,4 @@
 renderSavingScreen = false
 showToasts = false
 showSavingTime = "FALSE"
-backgroundPriority = 2
 allowMultipleServers = false

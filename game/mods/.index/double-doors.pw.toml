@@ -1,0 +1,16 @@
+filename = 'doubledoors-1.21.4-6.0.jar'
+name = 'Double Doors'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '90f47668e814a2a802679c5c3eb5e0ad76c3f8e09dc07ace66678b721e8bfc9f46c2687a762f7db96d7eb2244b6b760dbdfe665d134449c0866f8e1e96db6f6f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JrvR9OHr/versions/nBTIX00E/doubledoors-1.21.4-6.0.jar'
+
+[update.modrinth]
+mod-id = 'JrvR9OHr'
+version = 'nBTIX00E'

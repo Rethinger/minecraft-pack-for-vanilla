@@ -6,6 +6,27 @@
     "openGuiConfigs": {
       "keys": "A,C"
     },
-    "realmsCommonConfig": true
+    "enableConfigSwitcher": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "realmsCommonConfig": true,
+    "enableActionbarMessages": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "Debug": {
+    "debugMessages": false,
+    "configElementDebug": false,
+    "inputCancellationDebugging": false,
+    "keybindDebugging": false,
+    "keybindDebuggingIngame": false,
+    "mouseScrollDebug": false,
+    "printTranslationKeys": false
   }
 }

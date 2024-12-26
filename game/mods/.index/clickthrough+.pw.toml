@@ -1,0 +1,29 @@
+filename = 'clickthrough-plus-3.1+1.21.2.jar'
+name = 'ClickThrough Plus'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4-pre1',
+    '1.21.4-pre2',
+    '1.21.4-pre3',
+    '1.21.4-rc1',
+    '1.21.4-rc2',
+    '1.21.4-rc3',
+    '24w44a',
+    '24w45a',
+    '24w46a'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1a2f70397745b21896729b2093ea6db94ba8e6f1b11e12895c738d7e05ebc299f4450bc41bc74406acaf33a256daab3429388a445d382cfc4f6250c437139a93'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fJi8nm80/versions/W0z0xh1p/clickthrough-plus-3.1%2B1.21.2.jar'
+
+[update.modrinth]
+mod-id = 'fJi8nm80'
+version = 'W0z0xh1p'

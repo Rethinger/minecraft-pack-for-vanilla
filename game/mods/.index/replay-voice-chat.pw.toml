@@ -1,0 +1,16 @@
+filename = 'replayvoicechat-fabric-1.21.4-1.3.10.jar'
+name = 'Replay Voice Chat'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '641e4a2ad669d244cf02991b78ac19c750395ba5631aebd096ad3055f6935df6211b4442a0c4e04021a3ce43602da55e5041a87263b5e5008dad13e3b27685ec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yI6ANuOK/versions/TdlkuEi0/replayvoicechat-fabric-1.21.4-1.3.10.jar'
+
+[update.modrinth]
+mod-id = 'yI6ANuOK'
+version = 'TdlkuEi0'

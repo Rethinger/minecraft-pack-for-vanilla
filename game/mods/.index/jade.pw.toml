@@ -1,13 +1,16 @@
-filename = 'Jade-1.21.1-Fabric-15.3.0.jar'
+filename = 'Jade-1.21.4-Fabric-17.1.2.jar'
 name = 'Jade 🔍'
 side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
 
 [download]
-hash = '4cc3e5cdd97371c079b1979d44aa5d2c4eb106fbda50127536ab6dc718adeb5c3961bf588ca34a29da9ed160c1534086a71fd76bbade327823cd7aa97d697bb6'
+hash = '8eedbaf50b94fcfa822609facce7152c25be80449e804842a96e9194c8e669b03836c61bb96a6d3ae0455c1f5a88766293e7ad4ce14da1585640077512d25944'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/uXsQaAN6/Jade-1.21.1-Fabric-15.3.0.jar'
+url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/EJub6tVz/Jade-1.21.4-Fabric-17.1.2.jar'
 
 [update.modrinth]
 mod-id = 'nvQzSEkH'
-version = 'uXsQaAN6'
+version = 'EJub6tVz'
